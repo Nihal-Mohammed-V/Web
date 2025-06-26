@@ -83,3 +83,13 @@ body{
   width: 140px;
   height: 20px;
  }
+ .number{
+  width: 292px;
+  height: 20px;
+ }
+ .submitall{
+  background-color: green;
+  color: white;
+  height: 35px;
+  width: 150px;
+ }
