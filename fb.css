@@ -71,3 +71,15 @@ body{
  .image{
    width: 581px;
  }
+ .acnt{
+  font-size: 40px;
+  font-weight: bold;
+ }
+ .inputbox{
+  padding-bottom: 10px;
+
+ }
+ .fname{
+  width: 140px;
+  height: 20px;
+ }
