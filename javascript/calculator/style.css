@@ -1,15 +1,16 @@
 .calc{
     width: 400px;
-    height: 500px;
+    height: 480px;
     background-color: lightgray;
     margin-left: 400px;
 }
 #screen{
-    width: 84%;
+    width: 60%;
     height: 60px;
     margin-left: 30px;
     margin-top: 15px;
     pointer-events: none;
+    font-size: xx-large;
 }
 .btn{
     margin-top: 30px;
